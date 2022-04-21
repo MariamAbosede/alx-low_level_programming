@@ -1,21 +1,3 @@
-
-lroudge
-/
-holbertonschool-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-holbertonschool-low_level_programming/0x11-singly_linked_lists/2-add_node.c
-@lroudge
-lroudge Remove strlen in two tasks
- 1 contributor
-30 lines (25 sloc)  558 Bytes
 #include <stdlib.h>
 #include <string.h>
 #include "lists.h"
