@@ -1,21 +1,3 @@
-
-Caxri7
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-alx-low_level_programming/0x14-bit_manipulation/0-binary_to_uint.c
-@Caxri7
-Caxri7 Bit manipulation
- 1 contributor
-Executable File  30 lines (26 sloc)  404 Bytes
 #include "main.h"
 
 /**
